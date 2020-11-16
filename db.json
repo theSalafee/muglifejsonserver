@@ -19,7 +19,7 @@
     {
       "id": 2,
       "name": "Coffee on the brain",
-      "image": "https://github.com/theSalafee/muglifejsonserver/blob/master/json-server/public/images/coffee_reading.jpg",
+      "image": "https://github.com/theSalafee/muglifejsonserver/blob/master/json-server/public/images/coffee_reading.jpg?raw=true",
       "elevation": 2901,
       "featured": false,
       "description": "Who needs Red Bull when you got this high voltage goodness in your life."
@@ -27,7 +27,7 @@
     {
       "id": 3,
       "name": "Chocolate Stooper",
-      "image": "https://github.com/theSalafee/muglifejsonserver/blob/master/json-server/public/images/coffeeblurred.jpg",
+      "image": "https://github.com/theSalafee/muglifejsonserver/blob/master/json-server/public/images/coffeeblurred.jpg?=raw=true",
       "elevation": 42,
       "featured": true,
       "description": "You'll never want to leave this hidden gem, deep within the lush choco beans. So rich you'll think you're Jay-Z."
